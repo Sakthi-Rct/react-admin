@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "This is the body post for post 2",
+      "publishedAt": "2020-10-02"
+    },
+    {
+      "id": 3,
+      "title": "Post Three",
+      "body": "This is the body post",
+      "publishedAt": "10-02-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is body post for 4",
+      "publishedAt": "2021-05-30",
+      "id": 4
+    },
+    {
+      "title": "Post Five",
+      "body": "This is body post for 5",
+      "publishedAt": "2021-05-21",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Sakthivel",
+      "email": "sakthirct@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Raj",
+      "email": "raj@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Ashok",
+      "email": "ashok@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Mani",
+      "email": "mani@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Murali",
+      "email": "murali@gmail.com",
+      "id": 7
+    }
+  ]
+}
